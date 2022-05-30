@@ -3,6 +3,8 @@ A buzzwire game for Arduino with scoring &amp; LCD display.  Timer counts down a
 
 Using a bare 12 gauge wire for the wire course and a small eye bolt for the loop.
 
+See photos for reference.
+
 Build tips:
 
 * Mount start button at edge of breadboard so the loop can touch it to start.  This allows the timer to begin at the correct time.
